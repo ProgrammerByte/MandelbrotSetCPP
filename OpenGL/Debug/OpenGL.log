@@ -1,0 +1,7 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Mandelbrot Set\OpenGL\src\Application.cpp(106,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Mandelbrot Set\OpenGL\src\Application.cpp(106,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Mandelbrot Set\OpenGL\src\Application.cpp(106,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Mandelbrot Set\OpenGL\src\Application.cpp(107,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Mandelbrot Set\OpenGL\src\Application.cpp(107,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Mandelbrot Set\OpenGL\Debug\Template.exe
